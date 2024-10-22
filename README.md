@@ -19,7 +19,10 @@ types of state-of-the-art machine learning approaches based on relevant
 cross-validation schemes for multi-environment trial datasets (3)
 enables to implement predictions for unobserved configurations of
 genotypic and environmental predictors that the user wants to test *in
-silico*.  
+silico*.
+
+As part of the CONSERWA Project (https://conserwa.eu/the-conserwa-case-studies/), we are currently extending the software to integrate additional data on weed interactions and soil microbiomes, thereby enhancing its capacity to predict cultivar performance in more complex agricultural environments. This includes the parametrization of weed competition and the effect of the microbiome on drought tolerance. This helps breeders choose cultivars that do well in certain conditions.
+
 In the Reference section, the different functions implemented in the
 package are listed. **Only the so called main functions have to be run
 by the user in a typical workflow**.
